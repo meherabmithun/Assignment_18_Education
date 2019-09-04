@@ -1,0 +1,532 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.nav_t {
+    padding: 10px 0;
+}
+.mine_form {
+    width: 287px;
+}
+/*header end*/
+/*banner start*/
+.banner {
+	background-image: none;	
+    background-color: #ffffff;
+}
+.banner_h {
+    margin: 95px 0;
+    font-size: 30px;
+}
+
+/*banner end*/
+/*kid1 start*/
+.kid1 {
+    padding: 20px 0;
+}
+.common_title {
+    margin-bottom: 30px;
+}
+.common_h{
+    font-size: 28px;
+}
+.btn_img {
+    width: 40%;
+}
+.kid_img {
+    margin-top: 30px;
+}
+/*kid1 end*/
+/*kid2 start*/
+.kid2 {
+    padding: 20px 0;
+}
+/*kid2 end*/
+/*courses start*/
+.courses {
+    padding: 20px 0;
+}
+.bgc_none {
+    margin-top: 25px;
+}
+.btn_i {
+    margin-top: 10px;
+}
+/*courses end*/
+/*memorable moments start*/
+.memorable {
+    padding: 20px 0;
+}
+.mm_btn {
+    margin-top: 10px;
+}
+/*memorable moments end*/
+/*teacher start*/
+.teacher {
+    padding: 20px 0;
+}
+.icon_content {
+    margin-bottom: 35px;
+}
+.t_img {
+    text-align: center;
+}
+.t_detailes {
+    text-align: center;
+}
+/*teacher end*/
+/*counter start*/
+.counter {
+    padding: 20px 0;
+}
+.c_content {
+    margin-top: 10px;
+}
+.counter_h2 {
+    font-size: 40px;
+}
+.counter_p {
+    font-size: 16px;
+}
+/*counter end*/
+/*timeline start*/
+.timeline {
+    padding: 20px 0;
+}
+.pl {
+    padding-left: 15px !important;
+}
+.time_h1 {
+    text-align: center;
+}
+.time_hr {
+    margin-left: 37px;
+}
+.time_img {
+    text-align: center;
+    margin-top: 10px;
+}
+.n_content {
+    text-align: center;
+}
+.time_text {
+    margin-top: 0px;
+    text-align: center;
+}
+/*news start*/
+.n_img {
+    text-align: center;
+}
+.n_h1 {
+    margin: 25px 0;
+}
+/*timeline end*/
+/*contact start*/
+.contact {
+    padding: 20px 0;
+}
+.contact {
+    background-image: none;
+    background-color: #fff;
+}
+.logo_img {
+    margin-bottom: 20px;
+    margin-top: 0px;
+    text-align: center;
+}
+.logo_p {
+    text-align: center;
+}
+.mb {
+    text-align: center;
+}
+.ins_content {
+    margin: 30px 0 20px;
+    text-align: center;
+}
+.ins_img {
+    margin-top: 10px;
+    text-align: center;
+}
+.con_content {
+    margin: 40px 0 35px;
+    text-align: center;
+}
+.font_icon {
+    text-align: center;
+}
+.ns_content {
+    margin: 20px 0 20px;
+    text-align: center;
+}
+.news_details {
+    text-align: center;
+}
+.fc {
+    width: 75%;
+    margin-left: 18px;
+}
+/*contact end*/
+/*footer start*/
+footer {
+    padding: 10px 0;
+}
+/*footer end*/
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*banner start*/
+.banner_h {
+    margin: 150px 0;
+    font-size: 32px;
+}
+/*banner end*/
+/*kid1 start*/
+.kid1 {
+    padding: 35px 0;
+}
+.btn_img {
+    width: 40%;
+}
+.kid_img {
+    margin-top: 30px;
+}
+/*kid1 end*/
+/*kid2 start*/
+.kid2 {
+    padding: 35px 0;
+}
+.k2 {
+    margin-bottom: 15px;
+}
+.k2_img {
+    margin-top: 20px;
+}
+/*kid2 end*/
+/*courses start*/
+.courses {
+    padding: 35px 0;
+}
+.bgc_none {
+    margin-top: 30px;
+}
+.btn_i {
+    margin-top: 20px;
+}
+/*courses end*/
+/*memorable moments start*/
+.memorable {
+    padding: 35px 0;
+}
+.mm_btn {
+    margin-top: 40px;
+}
+/*memorable moments end*/
+/*teacher start*/
+.teacher {
+    padding: 35px 0;
+}
+.icon_content {
+    margin-bottom: 30px;
+}
+.common_title {
+    margin-bottom: 25px;
+}
+.t_img {
+    margin-top: 15px;
+}
+.t_detailes {
+    margin-top: 27px;
+}
+/*teacher end*/
+/*counter start*/
+.counter {
+    padding: 35px 0;
+}
+.c_content {
+    margin-top: 15px;
+}
+.counter_h2 {
+    font-size: 40px;
+}
+.counter_p {
+    font-size: 16px;
+}
+/*counter end*/
+/*timeline start*/
+.timeline {
+    padding: 35px 0;
+}
+.time_h1 {
+    text-align: center;
+}
+.time_hr {
+    margin-left: 145px;
+}
+.time_img {
+    margin-top: 15px;
+    text-align: right;
+}
+.time_text {
+    margin-top: 45px;
+}
+/*news star*/
+.n_h1 {
+    margin-top: 25px;
+}
+.n_img {
+    text-align: center;
+}
+.n_content {
+    text-align: center;
+}
+.n_hr {
+    margin-left: 126px;
+}
+/*timeline end*/
+/*contact start*/
+/*contact start*/
+.contact {
+    padding: 35px 0;
+}
+.contact {
+    background-image: none;
+    background-color: #fff;
+}
+.logo_img {
+    margin-bottom: 20px;
+    margin-top: 0px;
+    text-align: center;
+}
+.logo_p {
+    text-align: center;
+}
+.mb {
+    text-align: center;
+}
+.ins_content {
+    margin: 30px 0 20px;
+    text-align: center;
+}
+.ins_img {
+    margin-top: 10px;
+    text-align: center;
+}
+.con_content {
+    margin: 40px 0 35px;
+    text-align: center;
+}
+.font_icon {
+    text-align: center;
+}
+.ns_content {
+    margin: 20px 0 20px;
+    text-align: center;
+}
+.news_details {
+    text-align: center;
+}
+.fc {
+    margin-left: 131px;
+}
+/*contact end*/
+/*footer start*/
+footer {
+    padding: 10px 0;
+}
+/*footer end*/
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*banner start*/
+.banner_h {
+    margin: 150px 0;
+}
+/*banner end*/
+/*kid1 start*/
+.kid1 {
+    padding: 50px 0;
+}
+.btn_img {
+    width: 50%;
+}
+.kid_img {
+    margin-top: 70px;
+}
+/*kid1 end*/
+/*kid2 start*/
+.kid2 {
+    padding: 50px 0;
+}
+/*kid2 end*/
+/*courses start*/
+.courses {
+    padding: 50px 0;
+}
+.bgc_none {
+    margin-top: 35px;
+}
+.btn_i {
+    margin-top: 30px;
+}
+/*courses end*/
+/*memorable moments start*/
+.memorable {
+    padding: 50px 0;
+}
+.mm_btn {
+    margin-top: 50px;
+}
+/*memorable moments end*/
+/*teacher start*/
+.teacher {
+    padding: 50px 0;
+}
+.icon_content {
+    margin-bottom: 35px;
+}
+.common_title {
+    margin-bottom: 30px;
+}
+.t_img {
+    margin-top: 20px;
+}
+.t_detailes {
+    margin-top: 50px;
+}
+/*teacher end*/
+/*counter start*/
+.counter {
+    padding: 50px 0;
+}
+.counter_h2 {
+    font-size: 40px;
+}
+.counter_p {
+    font-size: 16px;
+}
+/*counter end*/
+/*timeline start*/
+.timeline {
+    padding: 50px 0;
+}
+.pl {
+    padding-left: 15px !important;
+}
+.time_img {
+    margin-top: 35px;
+}
+.time_text {
+    margin-top: 5px;
+}
+/*news start*/
+.n_h1 {
+    text-align: center;
+}
+.n_hrr {
+    margin-left: 86px;
+}
+.time_h2 {
+    margin-top: 10px;
+}
+.n_img {
+    text-align: center;
+}
+.n_content {
+    text-align: center;
+}
+.n_hr {
+    margin-left: 65px;
+}
+/*timeline end*/
+/*contact start*/
+.contact {
+    padding: 50px 0;
+}
+.fs_icon {
+    margin-top: 10px;
+}
+/*contact end*/
+/*footer start*/
+footer {
+    padding: 15px 0;
+}
+/*footer end*/
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*banner start*/
+.banner_h {
+    margin: 200px 0;
+}
+/*banner end*/
+/*kid start*/
+.kid_img {
+    margin-top: 40px;
+}
+/*kid end*/
+/*teacher start*/
+.t_detailes {
+    margin-top: 14px;
+}
+.common_p {
+    font-size: 14px;
+}
+/*teacher end*/
+/*timeline start*/
+.time_img {
+    
+}
+.time_text {
+    margin-top: 65px;
+}
+/*timeline end*/
+/*contact start*/
+.text {
+    font-size: 14px;
+}
+.fc {
+    padding: 10px 5px;
+}
+/*contact end*/
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1440px) {
+/*banner start*/
+.banner_h {
+    margin: 308px 0;
+}
+/*banner end*/
+/*timeline start*/
+.n_img {
+    margin-top: 25px;
+}
+.n_content {
+    margin-top: 25px;
+}
+.n_hrr {
+    margin-bottom: 5px;
+}
+.n_p {
+    line-height: 28px;
+    margin-top: 10px;
+}
+}
+/* xx large devices (large desktops, 1441px and up)*/
+@media (min-width: 1441px) {
+/*banner start*/
+.banner_h {
+    margin: 435px 0;
+}
+/*banner end*/
+/*timeline start*/
+.n_hr {
+    margin: 8px 0;
+}
+.n_p {
+    line-height: 28px;
+    margin-top: 10px;
+}
+}
